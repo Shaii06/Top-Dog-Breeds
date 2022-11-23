@@ -1,0 +1,14 @@
+body {
+ background-image: url("BG 1.jpg");
+ background-color: #cccccc;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+	color: black;
+ 	text-transform: uppercase;
+ 	letter-spacing: 4px;
+
+ }
